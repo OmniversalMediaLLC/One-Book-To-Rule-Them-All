@@ -1,4 +1,4 @@
-### Aether JupyterLab Setup & Customization
+# Aether JupyterLab Setup & Customization
 
 **Version:** 1.0  
 **Date:** March 20, 2025  
